@@ -1,3 +1,5 @@
 {
-  "Owners": "coolenpro", "Cowdoesmoooo"
+  "Owners": {
+    "coolenpro", "Cowdoesmoooo"
+  },
 }
